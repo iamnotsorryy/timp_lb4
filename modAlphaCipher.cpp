@@ -1,5 +1,5 @@
 /** @file
- * @author Ковалев Д.Е.
+ * @author Кабанов Д.А
  * @version 1.0
  * @date 32.13.2077
  * @copyright ИБСТ ПГУ
